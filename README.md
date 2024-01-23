@@ -14,3 +14,6 @@ JSON es un formato ligero y ampliamente utilizado en la web para representar dat
 YAML es un formato de serialización de datos que destaca por su legibilidad y es utilizado comúnmente en la configuración de aplicaciones y flujos de trabajo.
 
 [**Ir a la sección de YAML**](/JSONvsYAML/YAML.md)
+
+Ambos formatos tienen sus propias fortalezas y se utilizan en diferentes contextos según las necesidades específicas del proyecto o aplicación. 
+JSON es robusto y ampliamente aceptado, mientras que YAML destaca por su legibilidad y uso intuitivo en la configuración y descripción de datos estructurados.

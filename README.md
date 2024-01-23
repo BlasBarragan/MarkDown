@@ -1,6 +1,7 @@
 # Documentación: JSON vs YAML
 
-Bienvenido a la documentación comparativa entre JSON y YAML. Aquí encontrarás información detallada sobre las características y usos principales de ambos formatos de intercambio de datos.
+Bienvenido a la documentación comparativa entre JSON y YAML. 
+Aquí encontrarás información detallada sobre las características y usos principales de ambos formatos de intercambio de datos.
 
 ## JSON (JavaScript Object Notation)
 

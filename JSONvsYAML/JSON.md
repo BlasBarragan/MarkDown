@@ -1,7 +1,8 @@
 
 ## JSON (JavaScript Object Notation)
 
-JSON es un formato ligero de intercambio de datos que se ha vuelto estándar en la web. Se basa en la estructura de pares clave-valor y es conocido por su simplicidad y facilidad de interpretación.
+JSON es un formato ligero de intercambio de datos que se ha vuelto estándar en la web. 
+Se basa en la estructura de pares clave-valor y es conocido por su simplicidad y facilidad de interpretación.
 
 ### Características Principales:
 
@@ -11,10 +12,10 @@ JSON es un formato ligero de intercambio de datos que se ha vuelto estándar en 
 
     ```json
     {
-      "nombre": "John Doe",
-      "edad": 30,
-      "ciudad": "Barcelona",
-      "intereses": ["programación", "viajes", "lectura"]
+      "nombre": "Blas Barragán",
+      "edad": 35,
+      "ciudad": "Valencia",
+      "intereses": ["programación", "videojuegos", "gastronomía"]
     }
     ```
 

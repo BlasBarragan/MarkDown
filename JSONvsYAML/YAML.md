@@ -1,9 +1,6 @@
 
 ## YAML (YAML Ain't Markup Language)
 
-YAML es un formato de serialización de datos que se destaca por su legibilidad.
-Es utilizado comúnmente en la configuración de aplicaciones y en flujos de trabajo que requieren una representación clara de datos estructurados.
-
 ### Características Principales:
 
 - **Sintaxis Simplificada:**

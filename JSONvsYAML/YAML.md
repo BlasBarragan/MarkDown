@@ -28,4 +28,3 @@
 - **Fácil de Entender:**
   - Diseñado para ser fácilmente legible y editable sin necesidad de caracteres especiales.
 
-Ambos formatos tienen sus propias fortalezas y se utilizan en diferentes contextos según las necesidades específicas del proyecto o aplicación. JSON es robusto y ampliamente aceptado, mientras que YAML destaca por su legibilidad y uso intuitivo en la configuración y descripción de datos estructurados.

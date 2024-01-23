@@ -17,7 +17,7 @@ Es utilizado comúnmente en la configuración de aplicaciones y flujos de trabaj
 
 [**Ir a la sección de YAML**](/JSONvsYAML/YAML.md)
 
-[!IMPORTANT]
-Ambos formatos tienen sus propias fortalezas y se utilizan en diferentes contextos según las necesidades específicas del proyecto o aplicación. 
-JSON es robusto y ampliamente aceptado. 
-Mientras que YAML destaca por su legibilidad y uso intuitivo en la configuración y descripción de datos estructurados.
+> [!IMPORTANT]
+> Ambos formatos tienen sus propias fortalezas y se utilizan en diferentes contextos según las necesidades específicas del proyecto o aplicación. 
+> JSON es robusto y ampliamente aceptado. 
+> Mientras que YAML destaca por su legibilidad y uso intuitivo en la configuración y descripción de datos estructurados.
